@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d715324b-e16d-449a-9689-15b1558ba9dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VpziojQmbwg0C3yl40Mg4JHJLd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../信息系统实训/search-engine-template-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\LioHoiFung\Desktop\数据可视化\reactSPA-master\node_modules\prettier" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="D:\WorkAndLearning\WebStorm\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LioHoiFung\Desktop\数据可视化\reactSPA-master\src\common\pages\function\simpleChart" />
+      <recent name="C:\Users\LioHoiFung\Desktop\数据可视化\reactSPA-master\src\common\pages\gallary\cpac\force" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LioHoiFung\Desktop\数据可视化\reactSPA-master\src\common\pages\function\equiangular" />
+      <recent name="C:\Users\LioHoiFung\Desktop\数据可视化\reactSPA-master\src\common\pages\function\archimedean" />
+      <recent name="C:\Users\LioHoiFung\Desktop\数据可视化\reactSPA-master\src\common\pages\function\exponential" />
+      <recent name="C:\Users\LioHoiFung\Desktop\数据可视化\reactSPA-master\src\common\pages\function\exponential\line" />
+      <recent name="C:\Users\LioHoiFung\Desktop\数据可视化\reactSPA-master\src\common\pages\function\exponential\spiralLine" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" uri="http://localhost:3000" useFirstLineBreakpoints="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:3000" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:3000" useFirstLineBreakpoints="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d715324b-e16d-449a-9689-15b1558ba9dd" name="Default Changelist" comment="" />
+      <created>1577964954004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577964954004</updated>
+      <workItem from="1577964957941" duration="3031000" />
+      <workItem from="1577984500962" duration="22699000" />
+      <workItem from="1578118850873" duration="24448000" />
+      <workItem from="1578288813258" duration="17991000" />
+      <workItem from="1578449371469" duration="12753000" />
+      <workItem from="1578578251448" duration="8250000" />
+      <workItem from="1579067011565" duration="1708000" />
+      <workItem from="1583898376589" duration="472000" />
+      <workItem from="1583900140792" duration="1210000" />
+      <workItem from="1584272759851" duration="3000" />
+      <workItem from="1589244417399" duration="1306000" />
+      <workItem from="1602678152335" duration="4023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="806" y="240" key="#ESLint" timestamp="1602679053849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="240" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1602679053849" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/common/pages/gallary/album/index.js</url>
+          <line>86</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/common/pages/gallary/cpac/Fibonacci/index.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/common/pages/gallary/cpac/Voronoi/index.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/common/pages/function/simpleChart/index.js</url>
+          <line>135</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
